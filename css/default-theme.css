@@ -1,0 +1,9 @@
+.navbar{
+	background-color:#2a2929 ;
+	
+}
+.navbar-brand span:first-child{
+	
+	font-weight:bold;
+	color:#f16930;
+}
